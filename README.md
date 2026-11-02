@@ -6,6 +6,11 @@ A menu bar icon that turns on a pf kill switch around the tunnel of the
 While the kill switch is on, nothing leaves outside the tunnel, neither traffic nor DNS. Only the
 WireGuard server stays reachable, so the tunnel can come back up.
 
+<p align="center">
+  <img src="docs/menu-on.png" width="380" alt="Menu with the kill switch on">
+  <img src="docs/menu-off.png" width="380" alt="Menu with the kill switch off">
+</p>
+
 > Independent project, not affiliated with the WireGuard project. "WireGuard" is a registered
 > trademark of Jason A. Donenfeld.
 
